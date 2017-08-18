@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: DojoCon Japan 2017 - つながる Dojo to Dojo -
 description: DojoCon Japanは日本のCoderDojo関係者（見守る大人、学ぶ子供）とその活動に賛同・協賛する人が全国各地から集まる大きなイベントです。
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /dojocon2017teaser # the subpath of your site, e.g. /blog
 url: https://dojocon-japan.github.io
 
 sponsorform_url: https://docs.google.com/forms/d/e/1FAIpQLSfL3xYPIzWNKMhaVIiuiXgAT87nli91wamru6RcuS1zosb6QQ/viewform
@@ -49,4 +49,3 @@ compress_html:
   # blanklines: true
   # profile: true
   startings: [html, head, body]
-url: http://dojocon2017.coderdojo.jp
